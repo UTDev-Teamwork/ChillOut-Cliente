@@ -1,0 +1,18 @@
+
+.navBar{
+    background-color: #f2d5b1;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 1em;
+}
+
+.fill {
+    flex: 1 1 auto;
+}
+
+.a-icon{
+    font-size: 1.2em;
+    margin: 0.5em;
+}
